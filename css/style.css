@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(59, 150, 150);
+}
+.lot{
+    margin-left: 90px;
+}
+.col-4{
+    margin-left: 100px;
+}
+.sa{
+    margin-left: 100px;
+}
+.se{
+    color: violet;
+}
+.tel{
+    margin-left: 160px;
+}
+.img{
+    margin-left: 200px;
+    border-radius: 60px;
+}
